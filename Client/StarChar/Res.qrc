@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style/stylesheet.qss</file>
+        <file>res/background.jpg</file>
+        <file>res/background.png</file>
+        <file>res/ChatIcon.png</file>
+        <file>res/star.png</file>
+        <file>res/starchat.jpg</file>
+        <file>res/unvisible.png</file>
+        <file>res/unvisible_hover.png</file>
+        <file>res/visible.png</file>
+        <file>res/visible_hover.png</file>
+        <file>res/head2.jpg</file>
+        <file>res/head3.jpg</file>
+        <file>res/head4.jpg</file>
+        <file>res/head5.jpg</file>
+        <file>res/head6.jpg</file>
+        <file>res/head1.jpg</file>
+    </qresource>
+</RCC>
